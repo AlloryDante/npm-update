@@ -1,4 +1,4 @@
-﻿/**npm update function. @preserve Copyright(c) 2023 Allory Dante.*/
+﻿/**npm update function. @preserve Copyright(c) 2023 Allory Dante  .*/
 "use strict";
 
 var fs = require("fs");
