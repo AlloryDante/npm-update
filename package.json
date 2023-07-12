@@ -1,0 +1,46 @@
+{
+  "name": "npm-update",
+  "version": "1.3.5",
+  "description": "An npm-packages updater for keeping dependencies updated.",
+  "keywords": [
+    "tiny",
+    "npm",
+    "updater",
+    "update",
+    "version",
+    "check",
+    "checker",
+    "cli",
+    "module",
+    "package"
+  ],
+  "main": "index.js",
+  "browser": "browser.js",
+  "license": "MIT",
+  "author": "Allory Dante",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "browser.js",
+    "index.js",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
+  "homepage": "https://github.com/AlloryDante/npm-update#readme",
+  "bugs": {
+    "url": "https://github.com/AlloryDante/npm-update/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlloryDante/npm-update.git"
+  },
+  "devDependencies": {
+    "log-report": "^2.1.5",
+    "try-to-run": "^1.3.6"
+  },
+  "dependencies": {
+    "config-sets": "^2.5.0"
+  }
+}
